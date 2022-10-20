@@ -1,0 +1,9 @@
+#canvas{
+    border:1px solid black;
+    display: block;
+    margin-bottom: 20px;
+}
+.button__collapse{
+    color: red;
+    padding: 5px 10px;
+}
